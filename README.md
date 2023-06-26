@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Dart | Java | C++  
+- 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Carbon | Mojo
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
 - 🛢 &nbsp; MySQL | Firebase | Xampp
 - 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
