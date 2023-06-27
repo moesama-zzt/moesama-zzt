@@ -1,3 +1,11 @@
+<div align="center">
+  <div align="center">
+    <a href="https://blog.sunguoqi.com/">
+      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
+    </a>
+  </div>
+<div>
+  
 <h2> Hey there! 👋 I'm moesama. </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
