@@ -1,4 +1,4 @@
-<h2> Hey there! 👋 I'm moesama. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<h2> Hey there! 👋 I'm moesama. </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -14,11 +14,11 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Carbon | Mojo
-- 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
-- 🛢 &nbsp; MySQL | Firebase | Xampp
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Eclipse | Git
-- 🖥 &nbsp; Adobe Xd | Illustrator | Photoshop | OpenShot
+- 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Zig | Carbon | Mojo
+- 🌐 &nbsp; Web | Android | Desktop
+- 🛢 &nbsp; MySQL | PostGreSQL | MongoDB
+- 🔧 &nbsp; IDEA | Clion | Goland | AndroidStudio | NeoVim | VisualStudio | VisualStudioCode
+- 🖥 &nbsp; Photoshop | Illustrator | OpenShot
 
 <br>
 
