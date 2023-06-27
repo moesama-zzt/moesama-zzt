@@ -16,9 +16,9 @@
 
 - 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Zig | Carbon | Mojo
 - 🌐 &nbsp; Web | Android | Desktop
-- 🛢 &nbsp; MySQL | PostGreSQL | MongoDB
-- 🔧 &nbsp; IDEA | Clion | Goland | AndroidStudio | NeoVim | VisualStudio | VisualStudioCode
-- 🖥 &nbsp; Photoshop | Illustrator | OpenShot
+- 🛢 &nbsp; MySQL | PostGreSQL | MongoDB | Redis
+- 🔧 &nbsp; IDEA | Clion | Goland | NeoVim | AndroidStudio | VisualStudio
+- 🖥 &nbsp; Photoshop | Maya | Blender | Figma | AutoCAD
 
 <br>
 
