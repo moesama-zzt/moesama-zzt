@@ -11,11 +11,11 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 ![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
-
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="350"/>
 <h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Zig | Carbon | Mojo
-- 🌐 &nbsp; Web | Android | Desktop
+- 🌐 &nbsp; Web | Android | Desktop | Linux
 - 🛢 &nbsp; MySQL | PostGreSQL | MongoDB | Redis
 - 🔧 &nbsp; IDEA | Clion | Goland | NeoVim | AndroidStudio | VisualStudio
 - 🖥 &nbsp; Photoshop | Maya | Blender | Figma | AutoCAD
@@ -27,7 +27,6 @@
 </br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesama-zzt&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/moesama-zzt/github-readme-stats)
-
 
 <h3> 🤝🏻 Connect with Me </h3>
 
