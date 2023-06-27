@@ -1,6 +1,7 @@
 <h2> Hey there! 👋 I'm moesama. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 **moesama-zzt/moesama-zzt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/master/gif3.gif" width="500"/>
+![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
 
 <h3> 👨🏻‍💻 About Me </h3>
 
