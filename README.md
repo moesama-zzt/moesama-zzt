@@ -10,9 +10,9 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<h3>🛠 Tech Stack</h3>
-
 ![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
+
+<h3>🛠 Tech Stack</h3>
 
 - 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Carbon | Mojo
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
