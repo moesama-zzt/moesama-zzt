@@ -1,11 +1,8 @@
 <div align="center">
-  <div align="center">
-    <a href="https://blog.sunguoqi.com/">
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
-    </a>
-  </div>
-<div>
-  
+  <img align="center" src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=println!(%22Hello%2C%20World%22);&center=true&size=27" alt="Typing SVG" />
+</div>
+
+
 <h2> Hey there! 👋 I'm moesama. </h2>
 
 <h3> 👨🏻‍💻 About Me </h3>
@@ -34,9 +31,7 @@
 
 <h3> ⚡ Git Stat </h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=moesama-zzt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="moesama-zzt's Github Stats">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesama-zzt&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/moesama-zzt/github-readme-stats)
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=moesama-zzt&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="moesama-zzt's Github Stats">[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=moesama-zzt&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/moesama-zzt/github-readme-stats)
 
 </br>
 
