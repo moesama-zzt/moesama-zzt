@@ -1,7 +1,5 @@
 <h2> Hey there! 👋 I'm moesama. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
 
-![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently learning Flutter Application Development
@@ -13,6 +11,8 @@
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
 <h3>🛠 Tech Stack</h3>
+
+![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
 
 - 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Carbon | Mojo
 - 🌐 &nbsp; Android | flutter | HTML | CSS | JavaScript | Bootstrap 
