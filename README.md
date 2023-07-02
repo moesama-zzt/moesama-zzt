@@ -23,7 +23,7 @@
 
 - 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Zig | Carbon | Mojo
 - 🌐 &nbsp; Web | Android | Desktop | Linux
-- 🛢 &nbsp; MySQL | PostGreSQL | MongoDB | Redis
+- 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; IDEA | Clion | Goland | NeoVim | Android Studio | Visual Studio
 - 🖥 &nbsp; Photoshop | Maya | Blender | Figma | AutoCAD
 
