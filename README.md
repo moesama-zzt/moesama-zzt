@@ -31,7 +31,7 @@
 
 <h3> ⚡ Git Stat </h3>
 
-![overview.svg](https://raw.githubusercontent.com/moesama_zzt/github-stats/master/generated/overview.svg)
+![overview.svg](https://raw.githubusercontent.com/moesama-zzt/github-stats/master/generated/overview.svg)
 
 ![languages.svg](https://raw.githubusercontent.com/moesama-zzt/github-stats/master/generated/languages.svg)
 
