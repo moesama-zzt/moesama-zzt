@@ -25,7 +25,7 @@
 - 🌐 &nbsp; Web | Android | Desktop | Linux
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; IDEA | Clion | Goland | NeoVim | Android Studio | Visual Studio
-- 🖥 &nbsp; Photoshop | Maya | Blender | Figma | AutoCAD
+- 🖥 &nbsp; Photoshop | Maya | Blender | Figma | AutoCAD | Spine
 
 </br>
 
