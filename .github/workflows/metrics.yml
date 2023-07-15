@@ -22,6 +22,8 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
+          optimize: svg
+          experimental_features: --optimize-svg
           filename: assets/github-metrics.svg
           output_action: pull-request
           token: ${{ secrets.METRICS_TOKEN }}
