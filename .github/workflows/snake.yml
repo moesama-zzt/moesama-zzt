@@ -24,16 +24,18 @@ jobs:
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
       - name: Set Gif Path
-        run: echo "::set-env name=GIF_PATH::./assets/github-contribution-grid-snake.gif"
+        run: echo "GIF_PATH=./assets/github-contribution-grid-snake.gif" >> $GITHUB_ENV
 
       - name: Set Svg Path
-        run: echo "::set-env name=SVG_PATH::./assets/github-contribution-grid-snake.svg"
+        run: echo "SVG_PATH=./assets/github-contribution-grid-snake.svg" >> $GITHUB_ENV
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v8
-        env: 
+        env:
           ACCESS_TOKEN: ${{ secrets.WRITE_ACCESS_TOKEN }}
+          GIF_PATH: ${{ env.GIF_PATH }}
+          SVG_PATH: ${{ env.SVG_PATH }}
         with:
-          default_author: github-actor
-          message: 'Generate Contribution Snake'
-          files: ${{ env.SNAKE_GIF_PATH }} ${{ env.SNAKE_SVG_PATH }}
+          default_author: github_actor
+          message: Generate Contribution Snake
+          files: ${{ env.GIF_PATH }} ${{ env.SVG_PATH }}
