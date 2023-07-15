@@ -17,6 +17,8 @@
 
 ![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=moesama-zzt&bg_color=feffb8&color=5286ff&line=342e42&point=ff7a70&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <img align="right" alt="GIF" src="https://github.com/moesama-zzt/moesama-zzt/assets/94951283/745c021a-85bd-4d0c-8ec3-7fe4e07b739e" width="350"/>
 
 <h3>🛠 Tech Stack</h3>
