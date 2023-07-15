@@ -24,10 +24,10 @@ jobs:
           svg_out_path: ./assets/github-contribution-grid-snake.svg
 
       - name: Set Gif Path
-        run: echo "SNAKE_GIF_PATH=./assets/github-contribution-grid-snake.gif" >> $GITHUB_ENV
+        run: echo "::set-env name=GIF_PATH::./assets/github-contribution-grid-snake.gif"
 
       - name: Set Svg Path
-        run: echo "SNAKE_SVG_PATH=./assets/github-contribution-grid-snake.svg" >> $GITHUB_ENV
+        run: echo "::set-env name=SVG_PATH::./assets/github-contribution-grid-snake.svg"
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v8
