@@ -34,6 +34,6 @@ jobs:
         env: 
           ACCESS_TOKEN: ${{ secrets.WRITE_ACCESS_TOKEN }}
         with:
-          default_author: github-actions[bot]
+          default_author: github-actor
           message: 'Generate Contribution Snake'
           files: ${{ env.SNAKE_GIF_PATH }} ${{ env.SNAKE_SVG_PATH }}
