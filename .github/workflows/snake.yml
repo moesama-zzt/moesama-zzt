@@ -29,12 +29,11 @@ jobs:
       - name: Write Svg Path to Environment File
         run: echo "SNAKE_SVG_PATH=./assets/github-contribution-grid-snake.svg" >> $GITHUB_ENV
 
-      - name: Commit Changes
-        run: |
-          git config --global user.name "${GITHUB_ACTOR}"
-          git config --global user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-          git status
-          git add -A
-          git status
-          git commit -m "Generate Contribution Snake"
-          git push
+      - name: Push to GitHub
+        uses: EndBug/add-and-commit@v8
+        env: 
+          ACCESS_TOKEN: ${{ secrets.WRITE_ACCESS_TOKEN }}
+        with:
+          branch: main
+          message: 'Generate Contribution Snake'
+          files: ${{ env.SNAKE_GIF_PATH }} ${{ env.SNAKE_SVG_PATH }}
