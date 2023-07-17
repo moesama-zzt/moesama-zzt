@@ -1,8 +1,8 @@
-name: nobugs`commit
+name: contribute
 on:
   push:
     branches:
-      - master
+      - main
   schedule:
     - cron: "0 1 * * *"
 jobs:
