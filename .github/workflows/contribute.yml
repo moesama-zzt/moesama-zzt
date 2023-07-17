@@ -1,8 +1,8 @@
-name: contribute
+name: Contribute
 on:
   schedule:
     - cron: "0 1 * * *"
-  workdispach:
+  workflow_dispatch:
 jobs:
   autogreen:
     runs-on: ubuntu-latest
