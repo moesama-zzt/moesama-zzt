@@ -15,8 +15,6 @@
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
 
-<img src="https://cdn.jsdelivr.net/gh/moesama-zzt/moesama-zzt/profile-snake-contrib/github-contribution-grid-snake-dark.svg" />
-
 ![](https://raw.githubusercontent.com/moesama-zzt/moesama-zzt/main/assets/github-contribution-grid-snake.svg)
 
 <img align="right" alt="GIF" src="https://github.com/moesama-zzt/moesama-zzt/assets/94951283/745c021a-85bd-4d0c-8ec3-7fe4e07b739e" width="350"/>
