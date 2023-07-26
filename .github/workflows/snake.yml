@@ -17,12 +17,12 @@ jobs:
             ./assets/github-contribution-grid-snake.svg
             ./assets/github-contribution-grid-snake-dark.svg?palette=github-dark
         env:
-          GITHUB_TOKEN: ${{ secrets.WRITE_ACCESS_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.ACCESS_TOKEN }}
 
       - name: Push to GitHub
         uses: EndBug/add-and-commit@v8
         env:
-          ACCESS_TOKEN: ${{ secrets.WRITE_ACCESS_TOKEN }}
+          ACCESS_TOKEN: ${{ secrets.ACCESS_TOKEN }}
           GIF_PATH: ${{ env.GIF_PATH }}
           SVG_PATH: ${{ env.SVG_PATH }}
         with:
