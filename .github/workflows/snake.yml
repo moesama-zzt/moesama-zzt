@@ -17,7 +17,7 @@ jobs:
 
       - name: Generate Snake
         id: snake-gif
-        uses: Platane/snk@v3
+        uses: Platane/snk/snk-only@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
