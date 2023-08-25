@@ -4,7 +4,6 @@
 
 <p align="center">
   <h2 align="center"> Hey there! 👋 I'm moesama. </h2>
-  <p align="center">🏆 Add dynamically generated GitHub Stat Trophies on your readme</p>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
