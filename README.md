@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <h2 align="center"> Hey there! 👋 I'm moesama. </h2>
+  <h2 align="center"> Profile </h2>
 </p>
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
