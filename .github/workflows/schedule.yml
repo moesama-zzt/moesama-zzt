@@ -1,0 +1,31 @@
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    env:
+      TZ: Asia/Shanghai
+
+    strategy:
+      matrix:
+        python-version: [3.7]
+
+    steps:
+    - uses: actions/checkout@main
+    - name: Set up Python ${{ matrix.python-version }}
+      uses: actions/setup-python@v2
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install dependencies
+      run: |
+        python -m pip install --upgrade pip
+        pip install -r requirements.txt
+    
+    - name: Run
+      run: |
+        git config --local user.email ${{ secrets.EMAIL }}
+        git config --local user.name ${{ secrets.USERNAME }}
+        python main.py ${{ secrets.USERNAME }}
+        git add .
+        git commit --allow-empty -m "update"
+        git push
