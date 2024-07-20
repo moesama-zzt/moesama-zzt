@@ -30,7 +30,7 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Rust | Go | Kotlin | Swift | Java | Dart | Zig | Carbon | Mojo
+- 💻 &nbsp; Rust | Go | Kotlin | Swift | Dart | Zig | Carbon | Mojo | Cangjie
 - 🌐 &nbsp; Web | Android | Desktop | Linux
 - 🛢 &nbsp; MySQL | PostgreSQL | MongoDB | Redis
 - 🔧 &nbsp; IDEA | Clion | Goland | NeoVim | Android Studio | DataGrip
